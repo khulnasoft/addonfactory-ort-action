@@ -1,0 +1,208 @@
+---
+- id: "PyPI::schematics"
+  curations:
+    comment: >-
+      (The BSD License)
+
+      Copyright (c) 2013–2017 Schematics developers
+      All rights reserved.
+
+      Redistribution and use in source and binary forms, with or without modification,
+      are permitted provided that the following conditions are met:
+
+        1. Redistributions of source code must retain the above copyright notice,
+          this list of conditions and the following disclaimer.
+
+        2. Redistributions in binary form must reproduce the above copyright
+          notice, this list of conditions and the following disclaimer in the
+          documentation and/or other materials provided with the distribution.
+
+        3. Neither the name of Schematics nor the names of its contributors may be
+          used to endorse or promote products derived from this software without
+          specific prior written permission.
+
+      THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+      ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+      WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+      DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR
+      ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+      (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+      LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+      ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+      (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+      SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+    homepage_url: "https://github.com/schematics/schematics"
+- id: "PyPI::idna"
+  curations:
+    comment: >-
+      BSD 3-Clause License
+
+      Copyright (c) 2013-2021, Kim Davies
+      All rights reserved.
+
+      Redistribution and use in source and binary forms, with or without
+      modification, are permitted provided that the following conditions are met:
+
+      1. Redistributions of source code must retain the above copyright notice, this
+        list of conditions and the following disclaimer.
+
+      2. Redistributions in binary form must reproduce the above copyright notice,
+        this list of conditions and the following disclaimer in the documentation
+        and/or other materials provided with the distribution.
+
+      3. Neither the name of the copyright holder nor the names of its
+        contributors may be used to endorse or promote products derived from
+        this software without specific prior written permission.
+
+      THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+      AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+      IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+      DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+      FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+      DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+      SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+      CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+      OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+      OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+    homepage_url: "https://github.com/kjd/idna"
+- id: "PyPI::packaging"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-2-Clause"
+    homepage_url: "https://github.com/kjd/idna"
+- id: "PyPI::amqp"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::billiard"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::cached-property"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::celery"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::click"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::click-didyoumean"
+  curations:
+    declared_license_mapping:
+      "BSD License": "MIT"
+- id: "PyPI::click-plugins"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::kombu"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::lxml"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::prompt-toolkit"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-2-Clause"
+- id: "PyPI::pyasn1"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-2-Clause"
+- id: "PyPI::pycryptodomex"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+      "BSD, Public Domain": "BSD-3-Clause"
+    concluded_license: "BSD-3-Clause"
+- id: "PyPI::pysmi"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-2-Clause"
+- id: "PyPI::pysnmp"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::flask"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::flask-silk"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::itsdangerous"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::jinja2"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::markupsafe"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::werkzeug"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::decorator"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::colorama"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::oauthlib"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::pyasn1-modules"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::requests-oauthlib"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::uritemplate"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+      "BSD 3-Clause License or Apache License, Version 2.0": "BSD-3-Clause"
+- id: "PyPI::python-dateutil"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+      "Dual License": "BSD-3-Clause"
+- id: "PyPI::vine"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::jsl"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::boxsdk"
+  curations:
+    declared_license_mapping:
+      "Apache Software License, Version 2.0, http://www.apache.org/licenses/LICENSE-2.0": "Apache-2.0"
+- id: "PyPI::mock"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
+- id: "PyPI::wrapt"
+  curations:
+    declared_license_mapping:
+      "BSD License": "BSD-3-Clause"
