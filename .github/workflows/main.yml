@@ -55,7 +55,7 @@ jobs:
 
       - name: Docker meta
         id: docker_ort_meta
-        uses: docker/metadata-action@v3
+        uses: docker/metadata-action@v5
         with:
           images: ghcr.io/khulnasoft/addonfactory-ort-action
           tags: |
@@ -81,7 +81,7 @@ jobs:
 
       - name: Docker meta
         id: docker_action_meta
-        uses: docker/metadata-action@v3
+        uses: docker/metadata-action@v5
         with:
           images: ghcr.io/khulnasoft/addonfactory-ort-action
           tags: |
